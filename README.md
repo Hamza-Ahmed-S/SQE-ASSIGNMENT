@@ -4,7 +4,7 @@
 This project implements a Customer Loyalty Reward Evaluation Algorithm that calculates loyalty points based on purchase amounts and determines customer tier upgrades.
 
 ## Description
-The CLREA system manages a three-tier customer loyalty program:
+The "CLREA" system manages a three-tier customer loyalty program:
 - **Bronze** → **Silver** → **Gold**
 
 Customers earn points based on their purchases, with multipliers applied according to their current status. When accumulated points reach certain thresholds, customers are automatically upgraded to higher tiers.
